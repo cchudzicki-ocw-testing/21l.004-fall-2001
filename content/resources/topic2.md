@@ -4,7 +4,11 @@ description: This resource provides information on the second topic for discussi
   for this course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21l-004-major-poets-fall-2001/d8469bc72c7ad60c24e1fd4a9fead0ae_topic2.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: topic2.pdf
+type: OCWFile
 uid: d8469bc7-2c7a-d60c-24e1-fd4a9fead0ae
 ---

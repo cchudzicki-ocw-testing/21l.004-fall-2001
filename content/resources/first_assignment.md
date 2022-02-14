@@ -4,7 +4,12 @@ description: This resource provides information and assignments for the poem, ti
   Metaphors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21l-004-major-poets-fall-2001/6414443791e6439b4fe3b66656bb22e4_first_assignment.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: first_assignment.pdf
+type: OCWFile
 uid: 64144437-91e6-439b-4fe3-b66656bb22e4
 ---
