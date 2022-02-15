@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: keats_grasshopp.pdf
-type: OCWFile
 uid: f1b61a02-ec4a-8acc-0638-7ccfbb9f6360
 ---

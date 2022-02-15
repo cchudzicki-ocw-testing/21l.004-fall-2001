@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: wordsworthsamuel.pdf
-type: OCWFile
 uid: 6ebfd76a-da04-9187-de36-454b5ed69cfa
 ---

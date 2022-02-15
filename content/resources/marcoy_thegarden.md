@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: marcoy_thegarden.pdf
-type: OCWFile
 uid: fd4b4277-9bdf-7efe-04dd-cb8feaaeccee
 ---

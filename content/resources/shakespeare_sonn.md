@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: shakespeare_sonn.pdf
-type: OCWFile
 uid: ce774d4f-995a-54f1-f6aa-4095f45924aa
 ---

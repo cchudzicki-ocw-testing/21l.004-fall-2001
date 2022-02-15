@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: mat_aid_stu_disc.pdf
-type: OCWFile
 uid: 28512224-955c-da13-abf2-34eace89a457
 ---

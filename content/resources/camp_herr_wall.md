@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: camp_herr_wall.pdf
-type: OCWFile
 uid: bd43ec07-559c-637f-bd55-bc329730023e
 ---

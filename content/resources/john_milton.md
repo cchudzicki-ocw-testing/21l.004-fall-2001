@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: john_milton.pdf
-type: OCWFile
 uid: e48b110a-e935-8e57-d29d-5df50a41d7b2
 ---

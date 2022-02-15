@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: topic8.pdf
-type: OCWFile
 uid: 53b36e2d-61c7-dfe2-a1f2-94db8edc622b
 ---

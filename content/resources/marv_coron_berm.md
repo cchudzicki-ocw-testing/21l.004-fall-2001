@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: marv_coron_berm.pdf
-type: OCWFile
 uid: af618630-7236-8d07-4319-8ed21e389373
 ---

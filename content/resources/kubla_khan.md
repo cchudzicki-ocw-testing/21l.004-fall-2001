@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: kubla_khan.pdf
-type: OCWFile
 uid: 98ef27e9-62a3-4379-9b04-43504b99ca88
 ---

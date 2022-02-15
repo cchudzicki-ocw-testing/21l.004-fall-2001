@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: marv_apple_house.pdf
-type: OCWFile
 uid: e773e3ff-6ac0-7031-d895-ce3a63cf5392
 ---
