@@ -5,6 +5,7 @@ description: This resource provides information on the first topic of discussion
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21l-004-major-poets-fall-2001/fe21b4320353d0bf2a193bbec919349a_topic1.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

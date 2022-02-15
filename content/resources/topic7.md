@@ -5,6 +5,7 @@ description: This resource provides information on the seventh topic for discuss
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21l-004-major-poets-fall-2001/07c964850e41b7b0f5baaf4dd676acf2_topic7.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
