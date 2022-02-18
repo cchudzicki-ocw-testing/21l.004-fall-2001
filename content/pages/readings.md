@@ -63,7 +63,7 @@ Wyatt, Thomas. [_Who List to Hunt_](https://www.poetryfoundation.org/poems/45593
   
 Spenser, Edmund. _Sonnets_ _10, 15, 22, 67, 68, 75_, [_My Love is Like To Ice_](http://www.poemhunter.com/p/m/poem.asp?poet=3100&poem=29385).  
   
-Shakespeare, William. _Sonnets I, III, XII, XVIII, XX, XXIX, XXX, XXXIII, LI, LIII, LIV, LV, LXV, LXXI, LXXIII, LCIV, CVI, CVII, CXVI, CXXIX, CXXX, CXXXVIII, CXLIV, CXLVI._ ([PDF]({{< baseurl >}}/resources/shakespeare_sonn))
+Shakespeare, William. _Sonnets I, III, XII, XVIII, XX, XXIX, XXX, XXXIII, LI, LIII, LIV, LV, LXV, LXXI, LXXIII, LCIV, CVI, CVII, CXVI, CXXIX, CXXX, CXXXVIII, CXLIV, CXLVI._ ({{< resource_link ce774d4f-995a-54f1-f6aa-4095f45924aa "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ William Shakespeare (cont.)
 William Shakespeare (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Donne, John. _Elegy XIX. To His Mistress Going to Bed, The Flea, The Good Morrow, Song (a), The Sun Rising, The Canonization, Song (b), A Valediction of Weeping, Love's Alchemy, A Valediction Forbidding Mourning, A Nocturnal Upon St. Lucy's Day, Being the Shortest Day, The Ecstasy, Good Friday, 1613. Riding Westward, from Holy Sonnets, Hymn to God, My God, In My Sickness._ ([PDF]({{< baseurl >}}/resources/poetry_johndonne))
+Donne, John. _Elegy XIX. To His Mistress Going to Bed, The Flea, The Good Morrow, Song (a), The Sun Rising, The Canonization, Song (b), A Valediction of Weeping, Love's Alchemy, A Valediction Forbidding Mourning, A Nocturnal Upon St. Lucy's Day, Being the Shortest Day, The Ecstasy, Good Friday, 1613. Riding Westward, from Holy Sonnets, Hymn to God, My God, In My Sickness._ ({{< resource_link 257ad421-a232-d36e-1e1c-53010333cce0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ Herbert, George. _The Collar, The Pulley, The Forerunners._
   
 Carew, Thomas. _A Song._  
   
-Waller, Edmund. _Go Lovely Rose._ ([PDF]({{< baseurl >}}/resources/camp_herr_wall))  
+Waller, Edmund. _Go Lovely Rose._ ({{< resource_link bd43ec07-559c-637f-bd55-bc329730023e "PDF" >}})  
   
 Larkin, Philip. _Vers de Societé._
 {{< tdclose >}}
@@ -161,7 +161,7 @@ Larkin, Philip. _Vers de Societé._
 Discussion of: Milton, John. _Lycidas, L'Allegro, Il Penseroso, How Soon Hath Time, On his Blindness, Methought I Saw My Late Espoused Saint._
 {{< tdclose >}}
 {{< tdopen >}}
-Milton, John. _Lycidas, L'Allegro, Il Penseroso, How Soon Hath Time, On his Blindness, Methought I Saw My Late Espoused Saint_. ([PDF]({{< baseurl >}}/resources/john_milton))
+Milton, John. _Lycidas, L'Allegro, Il Penseroso, How Soon Hath Time, On his Blindness, Methought I Saw My Late Espoused Saint_. ({{< resource_link e48b110a-e935-8e57-d29d-5df50a41d7b2 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ John Milton (Discussion Concluded)
 Discussion of: Marvell, Andrew. _The Coronet, Bermudas, Body and Soul._
 {{< tdclose >}}
 {{< tdopen >}}
-Marvell, Andrew. _The Coronet, Bermudas, Body and Soul._ ([PDF]({{< baseurl >}}/resources/marv_coron_berm))
+Marvell, Andrew. _The Coronet, Bermudas, Body and Soul._ ({{< resource_link af618630-7236-8d07-4319-8ed21e389373 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +199,7 @@ Marvell, Andrew. _The Coronet, Bermudas, Body and Soul._ ([PDF]({{< baseurl >}}/
 Discussion of: Marvell, Andrew. _Coy Mistress, The Gallery, Definition of Love, The Mower Against Gardens, The Garden._
 {{< tdclose >}}
 {{< tdopen >}}
-Marvell, Andrew. _Coy Mistress, The Gallery, Definition of Love, The Mower Against Gardens, The Garden._ ([PDF]({{< baseurl >}}/resources/marcoy_thegarden))
+Marvell, Andrew. _Coy Mistress, The Gallery, Definition of Love, The Mower Against Gardens, The Garden._ ({{< resource_link fd4b4277-9bdf-7efe-04dd-cb8feaaeccee "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +211,7 @@ Marvell, Andrew. _Coy Mistress, The Gallery, Definition of Love, The Mower Again
 Discussion of: Marvell, Andrew. _On Appleton House._
 {{< tdclose >}}
 {{< tdopen >}}
-Marvell, Andrew. _On Appleton House_ ([PDF]({{< baseurl >}}/resources/marv_apple_house))
+Marvell, Andrew. _On Appleton House_ ({{< resource_link e773e3ff-6ac0-7031-d895-ce3a63cf5392 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ Discussion of: Wordsworth, William. _Tintern Abbey.
 _Discussion of: Taylor Coleridge, Samuel. _Frost at Midnight._
 {{< tdclose >}}
 {{< tdopen >}}
-Wordsworth, William. _Tintern Abbey._ Taylor Coleridge, Samuel. _Frost at Midnight._ ([PDF]({{< baseurl >}}/resources/wordsworthsamuel))
+Wordsworth, William. _Tintern Abbey._ Taylor Coleridge, Samuel. _Frost at Midnight._ ({{< resource_link 6ebfd76a-da04-9187-de36-454b5ed69cfa "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +237,7 @@ Wordsworth, William. _Tintern Abbey._ Taylor Coleridge, Samuel. _Frost at Midnig
 Discussion of: Wordsworth, William. _She dwelt among untrodden ways, A Slumber did my Spirit Seal, Three Years she grew, The Solitary Reaper, selected sonnets, Ode on Intimations of Immortality._
 {{< tdclose >}}
 {{< tdopen >}}
-Wordsworth, William. _She dwelt among untrodden ways, A Slumber did my Spirit Seal, Three Years she grew, The Solitary Reaper, selected sonnets, Ode on Intimations of Immortality._ ([PDF]({{< baseurl >}}/resources/wordsworth_untro))
+Wordsworth, William. _She dwelt among untrodden ways, A Slumber did my Spirit Seal, Three Years she grew, The Solitary Reaper, selected sonnets, Ode on Intimations of Immortality._ ({{< resource_link 883000ed-3729-12e2-78ae-789f55f7abdc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +251,7 @@ William Wordsworth (Discussion Concluded)
 Taylor Coleridge, Samuel. _Khubla Khan._
 {{< tdclose >}}
 {{< tdopen >}}
-Taylor Coleridge, Samuel. _Khubla Khan._ ([PDF]({{< baseurl >}}/resources/kubla_khan))
+Taylor Coleridge, Samuel. _Khubla Khan._ ({{< resource_link 98ef27e9-62a3-4379-9b04-43504b99ca88 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +263,7 @@ Taylor Coleridge, Samuel. _Khubla Khan._ ([PDF]({{< baseurl >}}/resources/kubla_
 Discussion of: Keats, John. _The Grasshopper and the Cricket, In Drear-Nighted December, What the Thrush Said, When I Have Fears, La Belle Dame sans Merci, Ode to a Nightingale, Ode on Melancholy, Ode on a Grecian Urn, to Autumn, Bright Star._
 {{< tdclose >}}
 {{< tdopen >}}
-Keats, John. _The Grasshopper and the Cricket, In Drear-Nighted December, What the Thrush Said, When I Have Fears, La Belle Dame sans Merci, Ode to a Nightingale, Ode on Melancholy, Ode on a Grecian Urn, to Autumn, Bright Star._ ([PDF]({{< baseurl >}}/resources/keats_grasshopp))
+Keats, John. _The Grasshopper and the Cricket, In Drear-Nighted December, What the Thrush Said, When I Have Fears, La Belle Dame sans Merci, Ode to a Nightingale, Ode on Melancholy, Ode on a Grecian Urn, to Autumn, Bright Star._ ({{< resource_link f1b61a02-ec4a-8acc-0638-7ccfbb9f6360 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
