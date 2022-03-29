@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c0ac6301-069c-8dbf-6c20-f19f7a51aa74
 resourcetype: Document
 title: topic2.pdf
 uid: d8469bc7-2c7a-d60c-24e1-fd4a9fead0ae

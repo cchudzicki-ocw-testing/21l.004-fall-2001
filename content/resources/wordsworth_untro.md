@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 509250a3-0a02-6960-7405-481861f75c7e
 resourcetype: Document
 title: wordsworth_untro.pdf
 uid: 883000ed-3729-12e2-78ae-789f55f7abdc

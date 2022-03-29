@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 509250a3-0a02-6960-7405-481861f75c7e
 resourcetype: Document
 title: poetry_johndonne.pdf
 uid: 257ad421-a232-d36e-1e1c-53010333cce0

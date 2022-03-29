@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 509250a3-0a02-6960-7405-481861f75c7e
 resourcetype: Document
 title: keats_grasshopp.pdf
 uid: f1b61a02-ec4a-8acc-0638-7ccfbb9f6360
