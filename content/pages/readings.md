@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the topics covered
+  in this course.
 draft: false
 learning_resource_types:
 - Readings
