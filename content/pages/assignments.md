@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The Assignments section lists four assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
