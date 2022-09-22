@@ -5,6 +5,7 @@ file: /courses/21l-004-major-poets-fall-2001/e48b110ae9358e57d29d5df50a41d7b2_jo
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

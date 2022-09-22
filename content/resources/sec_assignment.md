@@ -6,6 +6,7 @@ file: /courses/21l-004-major-poets-fall-2001/404c345f5fc3b80cea45c2a33457e858_se
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
